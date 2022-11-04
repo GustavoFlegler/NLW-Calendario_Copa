@@ -31,8 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
-
+O Calendário é um componente que mostra de forma organizada todos os jogos da Copa do Mundo de Futebol de 2022 com datas, horas e bandeiras de todos os times.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/h4ED50onuMSSLXef8okOzk/Calendário-de-Jogos-(Community)?node-id=0%3A1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -43,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Gustavo Flegler, atraves do evento NLW COPA da Rocketseat. :wave:
